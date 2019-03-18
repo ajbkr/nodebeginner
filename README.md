@@ -1,8 +1,8 @@
 Node Beginner
 =============
 
-Worked example from Manuel Kiessling's
-[Node Beginner Book](https://leanpub.com/nodebeginner).
+Reworked example from Manuel Kiessling's
+[The Node Beginner Book](https://leanpub.com/nodebeginner).
 
 I have modified some of the source code to use ES6/7 and have added linting
 using [JavaScript Standard Style](https://standardjs.com/).
